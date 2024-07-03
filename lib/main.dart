@@ -5,7 +5,6 @@ import 'package:hive_flutter/adapters.dart';
 import 'package:weatherit/cities.dart';
 import 'package:weatherit/weather_detail_scr.dart';
 
-import 'imageres.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
